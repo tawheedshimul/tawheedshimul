@@ -53,7 +53,7 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-next-js-a-popular-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 </p>
@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawheedshimul&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=tawheedshimul&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawheedshimul&theme=radical" alt="GitHub Streak" />
+  <img src="https://tawheed.vercel.app/?user=tawheedshimul&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
