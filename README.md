@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawheedshimul&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=tawheedshimul&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-ten-azure.vercel.app?user=&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats-ten-azure.vercel.app?user=&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
 </div>
 
 ---
